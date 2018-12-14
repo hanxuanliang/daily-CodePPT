@@ -113,7 +113,7 @@ files: /js/demo.js,/css/demo.css
 
 
 [slide data-transition="vertical3d"]
-# Thank for your listening
+# Thank for listening
 
 Github：https://github.com/hanxuanliang/dailyCodePPT
 
