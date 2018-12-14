@@ -1,13 +1,13 @@
 title: Backup and Recovery + Social Networking
 speaker: hanxuanliang
 url: https://github.com/ksky521/nodeppt
-transition: newspaper
+transition: cards
 files: /js/demo.js,/css/demo.css
 
 [slide]
 
 # Backup and Recovery + Social Networking
-## Speaker：cookie
+## Speaker：Group 6
 
 [slide]
 
@@ -76,6 +76,7 @@ files: /js/demo.js,/css/demo.css
 ---- 
 * silent {:&.fadeIn} <br />
 > Data recovery should not affect the user's experience
+![mysqlbackup](/img/mysqlbackup.jpg)
 * speed <br />
 > Can not affect the use of users for a long time
 
